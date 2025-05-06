@@ -50,7 +50,7 @@ This project is an AI agent that analyzes Medium articles provided via a URL. It
 
 Below is a link to the demonstration video of the DE_Agent in action:
 
-[Watch the DE_Agent Video](images/agent_de.mov)
+[Watch the DE_Agent Video](images/agent_de.mp4)
 
 ## Visualization
 
