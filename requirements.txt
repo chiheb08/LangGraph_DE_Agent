@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-openai
+python-dotenv
+requests
+beautifulsoup4
+streamlit
+networkx
+matplotlib
+IPython
+ipykernel
+jupyter 
